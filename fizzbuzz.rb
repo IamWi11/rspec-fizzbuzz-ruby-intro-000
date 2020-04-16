@@ -8,7 +8,6 @@ elsif int % 5 == 0
 elsif int % 3 == 0
   return "Fizz"
 
-
 else int % 3 and 5 == 1
   return nil
   end
